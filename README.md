@@ -4,7 +4,7 @@ This project aims to generate html pages for *Pro Git* book from [*Book Source*]
 The generated HTML pages can be hosted on the [GitHub](http://github.com) via [Github Pages](https://pages.github.com). 
 
 ## Demo
- - [demo](http://iissnan.com/progit).
+ - [IIssnan's Demo](http://iissnan.com/progit).
 
 ## Screenshots
 
@@ -52,7 +52,7 @@ The generated HTML pages can be hosted on the [GitHub](http://github.com) via [G
     node lib/build
     ```
    
-6. Push to your repository's gh-pages branch.
+6. Push to your repository's gh-pages branch.(After commit)
 
     ```
     git push origin gh-pages
